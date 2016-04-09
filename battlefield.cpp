@@ -46,6 +46,7 @@ int main() {
     //archer
     archer1->attack(werewolf1);
     archer1->attack(warlock1);
+    archer1->attack(warlock1);
     //rogue
     rogue1->attack(soldier1);
     rogue1->attack(vampire1);
