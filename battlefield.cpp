@@ -55,7 +55,6 @@ int main() {
     berserker1->toMount(horse1);
     berserker1->up(1);
     berserker1->left(3);
-    // berserker1->left(1);
     berserker1->attack(werewolf1);
     //werewolf
     werewolf1->activateSkill();
