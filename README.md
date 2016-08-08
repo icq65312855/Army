@@ -1,1 +1,2 @@
-# Army - this game is an example for a better understanding of object-oriented programming.
+# Army
+I created this game as an example for a better understanding of object-oriented programming.
